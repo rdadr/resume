@@ -1,0 +1,7 @@
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+	.location-container, .contacts-containerr, .tech-skills-container, .soft-skills-container, .certificate-container {
+    padding-left: 0;
+    text-align: center;
+}
+}
